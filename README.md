@@ -41,7 +41,7 @@ Analisa métricas relacionadas à receita e comportamento de clientes.
 - Receita por tipo de oferta  
 - Receita por tipo de cliente  
 
-<p align="center">
+<p align="center"><br/>
   <img src="images/dashboard_financeiro.png" width="800">
   <br>
   <em>Dashboard 1: Análise de desempenho financeiro, evolução da receita e comportamento de clientes.</em>
@@ -60,7 +60,7 @@ Explora a relação entre experiência dos clientes e práticas sustentáveis.
 - Adoção de práticas sustentáveis  
 - Desempenho por categoria de oferta  
 
-<p align="center">
+<p align="center"><br/>
   <img src="images/dashboard_experiencia.png" width="800">
   <br>
   <em>Dashboard 2: Análise da experiência dos clientes, popularidade das ofertas e práticas sustentáveis.</em>
@@ -74,3 +74,7 @@ Explora a relação entre experiência dos clientes e práticas sustentáveis.
 - **Hospedagens concentram a maior parte da receita**, além de apresentar ticket médio superior às atividades.  
 - A **taxa de fidelização é de 23,3%**, indicando potencial para estratégias de retenção.  
 - **67,5% das ofertas adotam práticas sustentáveis**, reforçando o alinhamento com o conceito de **ecoturismo**.
+
+## 🔗 Acesse o dashboard
+
+[Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2I3YmI4ZWEtMTlmYy00M2NlLWJkOGUtNTZhNDU5NDk4NDBmIiwidCI6ImRhYjgyMzM0LTU2YzctNDIxMy1hZGQyLTRhMjJjMjgyMzYxYyJ9)
