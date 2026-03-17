@@ -68,6 +68,25 @@ Explora a relação entre experiência dos clientes e práticas sustentáveis.
 
 ---
 
+## 📂 Estrutura do repositório
+
+Esta estrutura organiza os principais componentes do projeto: o arquivo do dashboard, as consultas SQL utilizadas na análise e as imagens utilizadas na documentação.
+
+```text
+projeto-analise-ecoturismo
+│
+├── dashboard
+│   └── ecoturismo_dashboard.pbix
+│
+├── images
+│   ├── dashboard_financeiro.png
+│   └── dashboard_experiencia.png
+│
+├── sql
+│   └── consultas_ecoturismo.sql
+│
+└── README.md
+ ```
 ## 🔎 Principais insights da análise
 
 - A plataforma gerou aproximadamente **R$ 663 mil em receita**, com **ticket médio de R$ 276 por reserva**.  
